@@ -1,5 +1,5 @@
 body{ 
-    background-color: bisque;
+    background-color: rgb(182, 169, 154);
 }
 .flex-container{
     border: 3px solid black;
@@ -12,6 +12,7 @@ body{
     height: 700px;
     align-items:start ;
     margin: 0 auto;
+    
 }
 
 .caja{

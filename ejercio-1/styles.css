@@ -1,0 +1,18 @@
+.flex-container{
+    display: flex;
+}
+
+/* Este selector selecciona todos los elementos div dentro de .flex-container */
+.flex-container div{
+    background: peachpuff;
+    border: 6px solid brown;
+    height: 400px;
+    width: 130px;
+    flex: 1 1 auto;
+}
+
+
+.flex-container .two {
+    flex-shrink: 0;
+    width: 450px;
+  }
